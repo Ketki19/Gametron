@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1570392101 source:e:\engineering\project\gametron\v3.0\gametron\temp\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"termcolor/termcolor.hpp"
+
+1570388601 e:\engineering\project\gametron\v3.0\gametron\temp\termcolor\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1570438798 source:e:\engineering\project\gametron\v3.0\gametron\temp\sl.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"termcolor/termcolor.hpp"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1570604094 source:e:\engineering\project\gametron\v3.0\gametron\main.cpp
+	<iostream>
+	<vector>
+	"gametron.h"
+	"games/termcolor/termcolor.hpp"
+
+1570544260 e:\engineering\project\gametron\v3.0\gametron\gametron.h
+	"games/games.h"
+
+1570602944 e:\engineering\project\gametron\v3.0\gametron\games\games.h
+	<vector>
+
+1570300281 e:\engineering\project\gametron\v3.0\gametron\games\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1570300033 e:\engineering\project\gametron\v3.0\gametron\games\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1570388601 e:\engineering\project\gametron\v3.0\gametron\games\termcolor\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1570567954 source:e:\engineering\project\gametron\v3.0\gametron\games\snake_ladder.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"termcolor/termcolor.hpp"
+	"games.h"
+
